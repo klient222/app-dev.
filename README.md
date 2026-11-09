@@ -1,6 +1,6 @@
 # My Favorite Movie
-**bold text** Final Destination 7
-**bold text** About the Movie
+ Final Destination 7
+ About the Movie
 Final Destination 7 is my chosen favorite movie in the Final Destination horror franchise. The series is known for its suspenseful scenes, unexpected twists, and terrifying encounters with death.
 
 ##  Why I Like It
