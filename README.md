@@ -2,7 +2,7 @@
  About the Movie
 Final Destination 7 is my chosen favorite movie in the Final Destination horror franchise. The series is known for its suspenseful scenes, unexpected twists, and terrifying encounters with death.
 
-###  Why I Like It
+##  Why I Like It
 It has exciting and suspenseful scenes.
 The unexpected twists make the story interesting.
 It keeps me curious about what will happen next.
